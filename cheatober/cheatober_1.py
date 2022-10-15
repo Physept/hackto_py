@@ -1,0 +1,1 @@
+print("a cheat to hacktober")
